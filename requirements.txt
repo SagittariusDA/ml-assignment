@@ -1,5 +1,7 @@
-altair
+scikit-learn==0.22.1
 numpy
 pandas
-pydeck
-streamlit
+matplotlib
+streamlit==0.76.0
+Pillow
+seaoborn
